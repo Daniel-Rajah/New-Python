@@ -22,5 +22,6 @@ if should_we_play == 'yes' or 'yh':
 else:
     print('fuck off then!')
     print('hello')
-    
+    print('Does it work?')
+
 
